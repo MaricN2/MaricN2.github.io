@@ -50,7 +50,7 @@ function ispisArtikla(){
             if(artikli[i].popust!=0){
             output +=
             '<p class="card-text fs-6 " style="text-decoration-line:line-through; color:gray;">Cena: '+artikli[i].cena+'</p>' +
-            '<p class="card-text fs-5 mb-5 text-wrap" style="line-height:0.8; color:rgb(180, 14, 14); font-weight:bold;">Cena: '+parseFloat(artikli[i].cena)*parseFloat('0.'+(100-artikli[i].popust))+' RSD</p>';
+            '<p class="card-text fs-5 mb-4" style="line-height:0.8; color:rgb(180, 14, 14); font-weight:bold;">Cena: '+parseFloat(artikli[i].cena)*parseFloat('0.'+(100-artikli[i].popust))+' RSD</p>';
             }
             else{
             output +=
