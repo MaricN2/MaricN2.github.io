@@ -1,0 +1,391 @@
+[
+    {
+        "id":1,
+        "ime":"Slusalice Razor",
+        "cena":"8000",
+        "slika":"imgs/sl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":2,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sen.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":3,
+        "ime":"Monitor LG",
+        "cena":"12000",
+        "slika":"imgs/monitor.png",
+        "popust":"18",
+        "tip":"monitor"
+
+    },
+    {
+        "id":4,
+        "ime":"Tastatura Marvo",
+        "cena":"2000",
+        "slika":"imgs/tastatura.png",
+        "popust":"10",
+        "tip":"tastatura"
+    },
+    {
+        "id":5,
+        "ime":"Slusalice JBL",
+        "cena":"8000",
+        "slika":"imgs/jbl.png",
+        "popust":"0",
+        "tip":"slusalice"
+    },
+    {
+        "id":6,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sen.png",
+        "popust":"40",
+        "tip":"slusalice"
+    },
+    {
+        "id":7,
+        "ime":"Monitor LG Gaming",
+        "cena":"12000",
+        "slika":"imgs/gm.png",
+        "popust":"10",
+        "tip":"monitor"
+    },
+    {
+        "id":8,
+        "ime":"Tastatura LOGITECH",
+        "cena":"4000",
+        "slika":"imgs/logi.png",
+        "popust":"0",
+        "tip":"tastatura"
+    },
+    {
+        "id":9,
+        "ime":"Monitor LG Gaming",
+        "cena":"12000",
+        "slika":"imgs/gm.png",
+        "popust":"30",
+        "tip":"monitor"
+    },
+    {
+        "id":10,
+        "ime":"Monitor LG",
+        "cena":"10000",
+        "slika":"imgs/monitor.png",
+        "popust":"28",
+        "tip":"monitor"
+    },
+    {
+        "id":11,
+        "ime":"Slusalice Razor",
+        "cena":"8000",
+        "slika":"imgs/sl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":12,
+        "ime":"Slusalice Panasonic",
+        "cena":"7000",
+        "slika":"imgs/pana.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":13,
+        "ime":"Slusalice JBL",
+        "cena":"8000",
+        "slika":"imgs/jbl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":14,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sen.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":15,
+        "ime":"Monitor LG Gaming",
+        "cena":"12000",
+        "slika":"imgs/gm.png",
+        "popust":"18",
+        "tip":"monitor"
+
+    },
+    {
+        "id":16,
+        "ime":"Tastatura Hama",
+        "cena":"7200",
+        "slika":"imgs/lg.png",
+        "popust":"10",
+        "tip":"tastatura"
+    },
+    {
+        "id":17,
+        "ime":"Slusalice Razor",
+        "cena":"6000",
+        "slika":"imgs/sl.png",
+        "popust":"0",
+        "tip":"slusalice"
+    },
+    {
+        "id":18,
+        "ime":"Slusalice Panasonic",
+        "cena":"10000",
+        "slika":"imgs/pana.png",
+        "popust":"40",
+        "tip":"slusalice"
+    },
+    {
+        "id":19,
+        "ime":"Monitor LG",
+        "cena":"9000",
+        "slika":"imgs/monitor.png",
+        "popust":"10",
+        "tip":"monitor"
+    },
+    {
+        "id":20,
+        "ime":"Tastatura Marvo",
+        "cena":"2000",
+        "slika":"imgs/tastatura.png",
+        "popust":"0",
+        "tip":"tastatura"
+    },
+    {
+        "id":21,
+        "ime":"Monitor Benq",
+        "cena":"12000",
+        "slika":"imgs/benq.png",
+        "popust":"30",
+        "tip":"monitor"
+    },
+    {
+        "id":22,
+        "ime":"Monitor LG",
+        "cena":"11000",
+        "slika":"imgs/monitor.png",
+        "popust":"28",
+        "tip":"monitor"
+    },
+    {
+        "id":23,
+        "ime":"Slusalice Razor",
+        "cena":"2900",
+        "slika":"imgs/sl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":24,
+        "ime":"Slusalice Panasonic",
+        "cena":"9000",
+        "slika":"imgs/pana.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":25,
+        "ime":"Slusalice JBL",
+        "cena":"8100",
+        "slika":"imgs/jbl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":26,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sen.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":27,
+        "ime":"Monitor Benq",
+        "cena":"12000",
+        "slika":"imgs/benq.png",
+        "popust":"18",
+        "tip":"monitor"
+
+    },
+    {
+        "id":28,
+        "ime":"Tastatura Hama",
+        "cena":"2000",
+        "slika":"imgs/lg.png",
+        "popust":"10",
+        "tip":"tastatura"
+    },
+    {
+        "id":29,
+        "ime":"Slusalice Razor",
+        "cena":"8000",
+        "slika":"imgs/sl.png",
+        "popust":"0",
+        "tip":"slusalice"
+    },
+    {
+        "id":30,
+        "ime":"Slusalice JBL",
+        "cena":"7000",
+        "slika":"imgs/jbl.png",
+        "popust":"40",
+        "tip":"slusalice"
+    },
+    {
+        "id":31,
+        "ime":"Monitor LG Gaming",
+        "cena":"12000",
+        "slika":"imgs/gm.png",
+        "popust":"10",
+        "tip":"monitor"
+    },
+    {
+        "id":32,
+        "ime":"Tastatura LOGITECH",
+        "cena":"9000",
+        "slika":"imgs/logi.png",
+        "popust":"10",
+        "tip":"tastatura"
+    },
+    {
+        "id":33,
+        "ime":"Monitor LG",
+        "cena":"9000",
+        "slika":"imgs/monitor.png",
+        "popust":"30",
+        "tip":"monitor"
+    },
+    {
+        "id":34,
+        "ime":"Monitor Benq",
+        "cena":"8000",
+        "slika":"imgs/monitor.png",
+        "popust":"28",
+        "tip":"monitor"
+    },
+    {
+        "id":35,
+        "ime":"Slusalice Panasonic",
+        "cena":"6000",
+        "slika":"imgs/sl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":36,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sl.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":37,
+        "ime":"Slusalice JBL",
+        "cena":"2900",
+        "slika":"imgs/jbl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":38,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sl.png",
+        "popust":"28",
+        "tip":"slusalice"
+    },
+    {
+        "id":39,
+        "ime":"Monitor LG",
+        "cena":"11000",
+        "slika":"imgs/monitor.png",
+        "popust":"18",
+        "tip":"monitor"
+
+    },
+    {
+        "id":40,
+        "ime":"Tastatura LOGITECH",
+        "cena":"7200",
+        "slika":"imgs/logi.png",
+        "popust":"12",
+        "tip":"tastatura"
+    },
+    {
+        "id":41,
+        "ime":"Slusalice Panasonic",
+        "cena":"8000",
+        "slika":"imgs/pana.png",
+        "popust":"0",
+        "tip":"slusalice"
+    },
+    {
+        "id":42,
+        "ime":"Slusalice Senheizer",
+        "cena":"11000",
+        "slika":"imgs/sl.png",
+        "popust":"40",
+        "tip":"slusalice"
+    },
+    {
+        "id":43,
+        "ime":"Monitor LG Gaming",
+        "cena":"20000",
+        "slika":"imgs/monitor.png",
+        "popust":"10",
+        "tip":"monitor"
+    },
+    {
+        "id":44,
+        "ime":"Tastatura Marvo",
+        "cena":"8000",
+        "slika":"imgs/tastatura.png",
+        "popust":"0",
+        "tip":"tastatura"
+    },
+    {
+        "id":45,
+        "ime":"Monitor Benq",
+        "cena":"12000",
+        "slika":"imgs/benq.png",
+        "popust":"30",
+        "tip":"monitor"
+    },
+    {
+        "id":46,
+        "ime":"Monitor LG",
+        "cena":"17000",
+        "slika":"imgs/monitor.png",
+        "popust":"28",
+        "tip":"monitor"
+    },
+    {
+        "id":47,
+        "ime":"Slusalice Razor",
+        "cena":"8000",
+        "slika":"imgs/sl.png",
+        "popust":"20",
+        "tip":"slusalice"
+    },
+    {
+        "id":48,
+        "ime":"Slusalice Senheizer",
+        "cena":"7000",
+        "slika":"imgs/sen.png",
+        "popust":"28",
+        "tip":"slusalice"
+    }
+]
+    

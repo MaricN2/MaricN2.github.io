@@ -1,0 +1,76 @@
+@media(max-width:768px){
+    li{
+        margin-left: 6vw;
+        margin-right: 8vw;
+    } 
+    #ddItem{
+        padding-left:0px;
+    }
+    #carouselExampleInterval{
+        margin-top:92px;
+    }
+    #info{
+        display:none;
+    }
+    #naslov{
+        text-align: center;
+    }
+    #korpa{
+        padding:0px;
+    }
+    #r{
+        width:100%;
+        margin-top:20px;
+        margin-left:2px;
+    }
+}
+
+@media(min-width:768px){
+    #dv{
+        display:none;
+    }
+    #naslov{
+        margin-left:10vw;
+    }
+    #korpa{
+        padding:0px;
+        margin-left:2%;
+    }
+    #r{
+        width:80%;
+    }
+}
+
+.centar{
+    text-align: center;
+}
+
+.cena{
+    padding:10px;
+    color: white;
+    background-color: rgb(180, 14, 14);
+    font-weight: bold;
+    font-size: 2rem;
+    width:fit-content;
+}
+
+.tekst{
+    /* position: absolute; */
+    padding:10px;
+    left: auto;
+    bottom: auto;
+    color: white;
+    background-color: rgb(180, 14, 14);
+    font-weight: bold;
+    font-size: 1.2rem;
+    width:6rem;
+}
+#dd{
+        width:40rem;
+    }
+
+#dropdownMenu{
+    background-color:orange;
+    font-weight: bold;
+    border: none;
+}

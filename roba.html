@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="store.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+    <title>Roba</title>
+</head>
+<body onload="proizvodi(0,1)">
+    <!-- Navigacija -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+        <div class="container-fluid" id="cont">
+        <div class="d-flex" id="dd">
+        <!-- Dropdown lista -->
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle " type="button" id="dropdownMenu" data-bs-toggle="dropdown" aria-expanded="false">
+              Proizvodi
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+                <li><a class="dropdown-item py-2" href="roba.html?tip=tastatura" id="tastature" onclick="passValue('tastatura')">Tastature</a></li>
+                <li><a class="dropdown-item py-2" href="roba.html?tip=slusalice" id="slusalice" onclick="passValue('slusalice')">Slusalice</a></li>
+                <li><a class="dropdown-item py-2" href="roba.html?tip=monitor" id="monitori" onclick="passValue('monitor')">Monitori</a></li>
+                <li><a class="dropdown-item py-2" href="roba.html?tip=laptop" id="laptopovi" onclick="passValue('laptop')">Laptopovi</a></li>
+                <li><a class="dropdown-item py-2" href="roba.html?tip=mobilni" id="mobilni" onclick="passValue('mobilni')">Mobilni telefoni</a></li>
+                <li><a class="dropdown-item py-2" href="roba.html?tip=tablet" id="tableti" onclick="passValue('tablet')">Tableti</a></li>
+            </ul>
+          </div>
+        <!-- Logo i search -->
+        <a href="index.html" class="navbar-brand ms-2">Store</a>
+            <div class="input-group input">
+                <input type="text" class="form-control dropdown-toggle" id="pretragaBar" placeholder="Pretraga"  data-bs-toggle="dropdown" aria-expanded="false">
+            <ul class="dropdown-menu d-none" aria-labelledby="dropdownMenu" id="pretraga">
+              
+            </ul>
+                <button class="btn btn-outline-warning me-5" style="background-color: orange;" type="button" id="button-search"><i class="bi bi-search text-white"></i></button>
+            </div>
+        </div>
+        <!-- Dugmici -->  
+            <ul class="navbar-nav ms-auto list-group-horizontal" id="opcije">
+                <li class="nav-item">
+                    <a href="korpa.html" class="nav-link pe-2"><i class="bi-cart-fill " style="color:orange; "></i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="index.html#akcijeS" class="nav-link pe-2">Akcije</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link pe-2">Prijava</a>
+                </li>
+                <li class="nav-item">
+                    <a href="kontakt.html" class="nav-link pe-2">Kontakt</a>
+                </li>
+            </ul>
+        </div>
+        </nav>
+        <!-- Div  -->
+        <div class="mt-4">&nbsp;</div>
+        <!-- Ispis artikla   -->
+        <section class="mt-5">
+            <div class="container-fluid" id="slike">
+                <div class="row text-center " id="artikli">
+                    
+                </div>
+                <div id="dugmeStrana">
+                      
+                </div>
+            </div>
+        </section>
+        
+
+        <!-- Donji deo  -->
+        <footer class="bg-dark text-white p-5 mt-2 text-center">
+            <div class="container d-grid align-items-center">
+              <div class="row">
+                <div class="col-4">
+                  <h1>Store</h1>
+                  <a href="http://www.instagram.com" class="link-secondary"><i class="bi bi-instagram h1 px-2"></i></a><a href="http://www.facebook.com" class="link-secondary"><i class="bi bi-facebook h1 px-2"></i></a>
+                </div>
+                <div class="col-4">
+                  <div class="mt-4">&nbsp;</div>
+                </div>
+                <div class="col-4">
+                  <p class="lead">Copyright &copy; 2021 STORE RS</p>
+                  <p class="lead">Tel: 060 420 1337</p>
+                </div>
+              </div>
+            </div>
+          </footer>
+          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+          <script src="js.js"></script>
+</body>
+</html>
